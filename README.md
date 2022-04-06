@@ -1,6 +1,7 @@
 ## Olá, eu sou a Stefani 
-- 👩‍💻 Estou estudando front-end e back-end
-- 🎗Pronome: Ela/Dela
+- 👩‍💻 Estou estudando front-end
+- 👩‍🎓 Formação acadêmica: Ciência da Computação
+- 🎗 Pronome: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/stefsant">
