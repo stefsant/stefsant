@@ -1,6 +1,5 @@
 ## Olá, eu sou a Stefani 
       "Seja a mudança 🧠"
-- 👩‍💻 Estou estudando Front-End
 - 👩‍💻 Experiência: Front-End e Back-End (Thinker Side)
 - 👩‍🎓 Formação acadêmica: Ciência da Computação
 - 🎗 Pronome: Ela/Dela
